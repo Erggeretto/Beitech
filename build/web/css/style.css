@@ -1,0 +1,24 @@
+.titulo{
+    color:#88AABB;
+    font-size:1.5em;
+    padding:0 0 0 4em;
+}
+.explica{
+    color:#CCCCDD;
+    font-size:1.5em;
+    padding:0 0 0 5em;
+}
+a:link {
+    font-size:18px;
+    color:#112233;
+    text-decoration:none;
+}
+a:visited {
+    color:#112233;
+}
+a:active {
+    color:#112233;
+}
+a:hover {
+    color:#AABBCC;
+}
